@@ -1,0 +1,12 @@
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\Interop.ADOX.dll
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS-60_500.csproj.ResolveComReference.cache
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS_60.Control_Form1.resources
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS_60_500.Properties.Resources.resources
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS_60.Viev_wStart.resources
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS_60.View_Alarm.resources
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS_60.View_Archiv.resources
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS_60.View_Setings.resources
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS_60.View_wFinish.resources
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS_60.View_Work.resources
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\obj\Debug\STAS-60_500.csproj.GenerateResource.Cache
+D:\Проекти\Модернизация стенда гидроамортизаторов\ПЗ\ПЗ_ПК\STAS-60\STAS-60\bin\Debug\STAS-60_500.exe.config

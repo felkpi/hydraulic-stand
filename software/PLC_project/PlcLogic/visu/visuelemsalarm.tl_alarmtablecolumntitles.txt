@@ -1,0 +1,13 @@
+Id;Default;en;de;fr;it;es;zh-CHS;ru;ja
+ColBitmap;Bitmap;Bitmap;Symbol;Symbole;Simbolo;Simbolo;??;Изображение;??
+ColTimestamp;Timestamp;Timestamp;Zeitstempel;Horodatage;Timestamp;Marca de hora;???;Временная отметка;???????
+ColTimestampActive;Timestamp active;Timestamp active;Zeitstempel aktiv;Horodatage active;Timestamp attivo;Marca de hora activa;?????;Временная отметка активна;??????? ??
+ColTimestampInactive;Timestamp inactive;Timestamp inactive;Zeitstempel inaktiv;Horodatage inactive;Timestamp inattivo;Marca de hora inactiva;??????;Временная отметка неактивна;??????? ???
+ColTimestampAcknowledge;Timestamp acknowledge;Timestamp acknowledge;Zeitstempel Bestatigung;Horodatage confirmation;Conferma timestamp;Confirmacion marca de hora;?????;Подтверждение временной отметки;??????? ??
+ColValue;Value;Value;Wert;Valeur;Valore;Valor;?;Значение;?
+ColMessage;Message;Message;Meldungstext;Message;Testo del messaggio;Texto del mensaje;??;Сообщение;????? ????
+ColPriority;Priority;Priority;Prioritat;Priorite ;Priorita;Prioridad;$;???;Приоритет;??
+ColClass;Class;Class;Klasse;Classe;Classe;Clase;?;Kласс;???
+ColState;State;State;Zustand;Etat;Stato;Estado;??;Состояние;??
+ColLatch;Latch;Latch;Latch-Variable;Variable Latch;Variabile Latch;Variable Latch;????;Триггер;?????
+;;;;;;;;;

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://www.plcopen.org/xml/tc6_0200">
+  <fileHeader companyName="Eaton Automation" productName="XSOFT-CODESYS-3 - PLC programming system (Demo license)" productVersion="XSOFT-CODESYS V3.5.11" creationDateTime="2018-06-18T11:39:30.2804468" />
+  <contentHeader name="STAS-60.project" modificationDateTime="2018-06-18T10:33:33.3344536">
+    <coordinateInfo>
+      <fbd>
+        <scaling x="1" y="1" />
+      </fbd>
+      <ld>
+        <scaling x="1" y="1" />
+      </ld>
+      <sfc>
+        <scaling x="1" y="1" />
+      </sfc>
+    </coordinateInfo>
+    <addData>
+      <data name="http://www.3s-software.com/plcopenxml/projectinformation" handleUnknown="implementation">
+        <ProjectInformation>
+          <property name="Project" type="string">STAS-60</property>
+        </ProjectInformation>
+      </data>
+    </addData>
+  </contentHeader>
+  <types>
+    <dataTypes />
+    <pous />
+  </types>
+  <instances>
+    <configurations />
+  </instances>
+  <addData>
+    <data name="http://www.3s-software.com/plcopenxml/globalvars" handleUnknown="implementation">
+      <globalVars name="GVL">
+        <variable name="hiPres" address="%IW2">
+          <type>
+            <WORD />
+          </type>
+        </variable>
+        <variable name="lowPres" address="%IW4">
+          <type>
+            <WORD />
+          </type>
+        </variable>
+        <variable name="mowAbsorb" address="%IW6">
+          <type>
+            <WORD />
+          </type>
+        </variable>
+        <variable name="lowPresAbsorb" address="%IW8">
+          <type>
+            <WORD />
+          </type>
+        </variable>
+        <variable name="hiPresAbsorb" address="%IW10">
+          <type>
+            <WORD />
+          </type>
+        </variable>
+        <variable name="nProcess">
+          <type>
+            <INT />
+          </type>
+        </variable>
+        <variable name="kokoetoChislo">
+          <type>
+            <WORD />
+          </type>
+        </variable>
+        <addData>
+          <data name="http://www.3s-software.com/plcopenxml/attributes" handleUnknown="implementation">
+            <Attributes>
+              <Attribute Name="qualified_only" Value="" />
+            </Attributes>
+          </data>
+          <data name="http://www.3s-software.com/plcopenxml/buildproperties" handleUnknown="implementation">
+            <BuildProperties>
+              <LinkAlways>true</LinkAlways>
+            </BuildProperties>
+          </data>
+          <data name="http://www.3s-software.com/plcopenxml/objectid" handleUnknown="discard">
+            <ObjectId>c36edb61-a7a6-45d3-ac12-22a8d35caadf</ObjectId>
+          </data>
+        </addData>
+      </globalVars>
+    </data>
+    <data name="http://www.3s-software.com/plcopenxml/projectstructure" handleUnknown="discard">
+      <ProjectStructure>
+        <Object Name="GVL" ObjectId="c36edb61-a7a6-45d3-ac12-22a8d35caadf" />
+      </ProjectStructure>
+    </data>
+  </addData>
+</project>
